@@ -8,7 +8,7 @@
 * **World Models** — Representing complex states in economics and geopolitics over physical environments.
 
 ### 🛠 Stack
-`Python`  `TS`  `React`  `NEXT.js`
+`Python`  `TS`  `React`  `NEXT.js` `PostgreSQL`
 
 ### 🚀 Mission
 > "Accelerating progress through decisional sovereignty."
