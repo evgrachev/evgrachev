@@ -1,5 +1,7 @@
 ### 🧑🏻‍💻 About Me
 * **Background** — Repeat founder with 7 years shipping AI and software products.
+* **Experience** — Leading the development of scalable, high-performance web applications.
+* **Leadership** — Managing AI and research teams to bridge the gap from R&D to production.
 * **Current Focus** — Building at the intersection of economics and AI.
 
 ### 🧠 Interests
